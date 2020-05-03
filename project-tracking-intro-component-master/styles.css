@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: 'Barlow';
+}
+h4{
+    
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.bg-blue{
+    position: absolute;
+    right: 0;
+    z-index: -1;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3% 10%;
+    
+}
+.nav-item{
+    margin-right: 20px;
+    text-decoration: none;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    color: hsl(230, 29%, 20%);
+    font-size: 1.25rem;
+}
+.login{
+    margin-left: 100px;
+    color: hsl(231, 7%, 65%);
+}
+.row{
+    padding: 1%;
+    display: flex;
+}
+.col-img{
+    margin-top: 8%;
+}
+.column{
+    flex: 50%;
+}
+.col-text{
+    padding: 0 7%;
+    text-align: left;
+}
+.dash-text{
+    display: flex;
+    align-items: center;
+}
+.intro-text{
+    padding: 10%;
+}
+.intro{
+    margin-top: 0;
+    font-family: 'Barlow Condensed';
+    font-size: 5rem;
+    font-weight: 700;
+}
+.new{
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: hsl(230, 29%, 20%);
+    color: white;
+    text-transform: uppercase;
+    margin-right: 2%;
+}
+.but-div{
+    margin-top: 10%;
+}
+.o-button{
+    text-decoration: none;
+    background-color: hsl(0, 100%, 68%);
+    padding: 15px 30px;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    font-weight: 700;
+}
+.t{
+    background-color: white;
+    color: hsl(231, 7%, 65%);
+}

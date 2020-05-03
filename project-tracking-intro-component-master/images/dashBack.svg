@@ -1,0 +1,9 @@
+<svg id="dashBack" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.638" height="1080.731" viewBox="0 0 1920.638 1080.731">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.121" x2="0.71" y2="0.82" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0072bc"/>
+      <stop offset="1" stop-color="#29c1e1"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_132" data-name="Path 132" d="M5298.284,0s-90.73,158,59.652,291.138c65.266,57.78,238.082,64.292,342.418,105.868,136.176,54.263,199.457,135.53,199.457,135.53v548.194l-1410.907-.273s73.424-324.515-54.008-475.023-455.722-127.009-455.722-127.009V0Z" transform="translate(-3979.173)" fill="url(#linear-gradient)"/>
+</svg>

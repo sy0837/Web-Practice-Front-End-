@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    display: flex;
+    height: 100vh;
+    background-image: url("images/bg-pattern-desktop.svg");
+}
+.column{
+    flex: 50%;
+   
+}
+.text{
+    
+    padding: 5% 10%;
+}
+.hero-img{
+    
+    right: 0;
+    position: absolute;
+    height: 100vh;
+   
+}
